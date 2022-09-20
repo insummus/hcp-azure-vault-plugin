@@ -1,0 +1,9 @@
+## Azure DevOps - Vault Plugin Test
+
+## KEY:VAULE
+
+DB_AUTH_CONNECTION=mysql
+DB_AUTH_PORT=3306
+DB_AUTH_DATABASE=stage_auth
+DB_AUTH_USERNAME=user01
+DB_AUTH_PASSWORD=userpw
