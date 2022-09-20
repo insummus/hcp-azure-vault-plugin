@@ -1,0 +1,1 @@
+# hcp-azure-vault-plugin
